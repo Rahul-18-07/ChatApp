@@ -2,6 +2,6 @@
 
 ## ScreenShots
 
-![My Image](images/2.png)
+![My Image](Images/2.png)
 
-![My Image](images/1.png)
+![My Image](Images/1.png)
